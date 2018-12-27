@@ -1,0 +1,30 @@
+Converting GML script : ${project_dir}\scripts\scr_getinputs\scr_getinputs.gml
+Converted string : line 1 : 'W' -> "W"
+Converted string : line 2 : 'S' -> "S"
+Converted string : line 3 : 'D' -> "D"
+Converted string : line 4 : 'A' -> "A"
+Converted string : line 6 : 'Q' -> "Q"
+Converted string : line 13 : 'X' -> "X"
+Converted string : line 14 : 'X' -> "X"
+
+Converting GML script : ${project_dir}\objects\o_pause\Draw_0.gml
+Converted builtin : line 10 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin : line 10 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script : ${project_dir}\objects\o_health\Create_0.gml
+Converted builtin : line 6 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin : line 6 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script : ${project_dir}\objects\o_debug\Step_0.gml
+Converted string : line 14 : '1' -> "1"
+Converted string : line 17 : '2' -> "2"
+Converted string : line 21 : '3' -> "3"
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit.
+game speed set to 60
+added compatibility script instance/instance_create.gml
+added compatibility script object/object_get_depth.gml
+added compatibility script view/__view_get.gml
+added compatibility script view/__init_view.gml
+added compatibility script __init_global.gml
+added compatibility script __global_object_depths.gml
